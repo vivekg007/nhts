@@ -373,7 +373,7 @@ class _SummaryTabBar extends State<SummaryTabBar> {
       } else if (txnCode == datas.activityTxn) {
         txnname = "Other Activities";
       } else if (txnCode == datas.entityFarm) {
-        txnname = "Entity Farm Registration";
+        txnname = "EntityFarm Registration";
       }
       print("txnname_txnname" + txnname);
       print("txnSynched_txnSynched" + txnSynched);
