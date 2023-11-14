@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529167705802",
+    "project_id": "ucda-f9401",
+    "storage_bucket": "ucda-f9401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529167705802:android:ed274924637610e8d1f633",
+        "android_client_info": {
+          "package_name": "com.sts.datagreen.ucda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529167705802-daslcrtfgjtop85eh7vsk6980s2tl0kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs4wUwFy-a8mXsAsLmZDDifPKW2uFP-EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529167705802-daslcrtfgjtop85eh7vsk6980s2tl0kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
